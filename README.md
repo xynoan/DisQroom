@@ -11,7 +11,7 @@ http://localhost/phpmyadmin
 ```
 5. Create a new database naming `odfs_db`.
 6. Import the provided SQL file. The file is known as `odfs_db.sql` located inside the database folder.
-7. Browse the Online Discussion Forum Site in a browser. i.e. 
+7. Browse DisQroom in a browser. i.e. 
 ```
 http://localhost/DisQroom/
 ```
